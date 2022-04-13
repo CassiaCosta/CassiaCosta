@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Cássia Costa! 👋
 
 - 🌱 Estudante de Front-End Developer na Laboratória
-- 📫 E-mail: cassia.silva93@hotmail.com | LinkedIn: https://www.linkedin.com/in/cassia-costa/
+- 📫 E-mail: cassia.silva93@hotmail.com
 - ⚡ Fun fact: ...
 
 <div align="center">
