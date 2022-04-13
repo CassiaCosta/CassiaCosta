@@ -1,13 +1,13 @@
 ### Olá! Eu sou a Cássia Costa! 👋
 
 - 🌱 Estudante de Front-End Developer na Laboratória
-- 📫 E-mail: cassia.silva93@hotmail.com | LinkedIn: 
+- 📫 E-mail: cassia.silva93@hotmail.com | LinkedIn: https://www.linkedin.com/in/cassia-costa/
 - ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/CassiaCosta">
-  <img height="160em" target="_blank" src="https://github-readme-stats.vercel.app/api?username=CassiaCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaCosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CassiaCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaCosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cass-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
