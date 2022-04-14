@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Front-End Developer na Laboratória
 - 📫 E-mail: cassia.silva93@hotmail.com
-- ⚡ Fun fact: ...
+- ⚡ Tenho 28 anos, sou natural do Piauí, cursei dois anos de Ciências Biológicas na UESPI e estou em transição de carreira e busco recolocação no mercado. Considero-me uma pessoa curiosa, com disposição para aprender e interesse em obter novos conhecimentos, com isso pude vivenciar experiências como: desenhista, atuação em teatro, modelo fotográfica, escritora/autora (com uma série em livros que será publicada em forma de livros físicos) e, agora, desenvolvedora Front-End. Vi na área de tecnologia a possibilidade de desenvolvimento e crescimento intelectual e profissional, além do importante impacto na vida das pessoas.
 
 <div align="center">
   <a href="https://github.com/CassiaCosta">
